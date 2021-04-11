@@ -57,13 +57,13 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown"> 
                                 <li><a class="dropdown-item" href="/outsider/admission.aspx">Admission Form</a></li>
-                                <li><a class="dropdown-item" href="feestructure">Fees Structure</a></li>
+                                <li><a class="dropdown-item" href="feestructure.aspx">Fees Structure</a></li>
                                 <li><a class="dropdown-item" href="reservation.aspx">Reservation of Seats</a></li>
                                 <li><a class="dropdown-item" href="Rules.aspx">Rules</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="Activites.aspx">Activities</a>
+                            <a class="nav-link" aria-current="page" href="Activities.aspx">Activities</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="Facilities.aspx">Facilities</a>
@@ -81,7 +81,7 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown"> 
                                 <li><a class="dropdown-item" href="#">Syllabus</a></li>
                                 <li><a class="dropdown-item" href="#">Sample Question Papers</a></li>
-                                <li><a class="dropdown-item" href="exam.aspx">Main Exam</a></li>
+                                <li><a class="dropdown-item" href="/teachers/Examination.aspx">Main Exam</a></li>
                               
                             </ul>
                         </li>
