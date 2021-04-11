@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="AboutDept.aspx.cs" Inherits="AboutDept" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="insider.master" AutoEventWireup="true" CodeFile="AboutDept.aspx.cs" Inherits="AboutDept" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <title>ABOUT COLLEGE AND DEPARTMENT</title>
@@ -13,12 +13,13 @@
             font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         }
         p{
-            margin-bottom: 2rem;
+            margin-bottom: 2rem;                        
         }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <div class="container">
+        <br />
         <h4>ABOUT OUR COLLEGE</h4>
         <p>The Elphinstone Institution was established in 1827 under the Bombay Native Education
 (Trust). The enlightened citizens of Mumbai collected a sum of Rs. 2,29,636 for the institution

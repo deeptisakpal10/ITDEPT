@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="feestructure.aspx.cs" Inherits="feestructure" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="insider.master" AutoEventWireup="true" CodeFile="feestructure.aspx.cs" Inherits="feestructure" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <title>FEES STRUCTURE</title>
@@ -25,6 +25,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <form id="form1" runat="server">
     <div class="container">
+        <br />
         <h4>B.SC. INFORMATION TECHNOLOGY FEES STRUCTURE </h4>
     <p>College runs an unaided course in B.Sc. Information technology course to provide a competitive edge to the young and aspiring graduates. This course covers subjects as diverse as programming, algorithms, mathematics, digital electronics, microprocessors, management practices, Web designing, etc. The total number of seats is 60 for each year.</p>
         

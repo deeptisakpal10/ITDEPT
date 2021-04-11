@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Library/Library.master" AutoEventWireup="true" CodeFile="returnbook.aspx.cs" Inherits="Library_returnbook" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="Library.master" AutoEventWireup="true" CodeFile="returnbook.aspx.cs" Inherits="Library_returnbook" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <title>Return Book</title>

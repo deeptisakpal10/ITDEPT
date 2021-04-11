@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="HISTORY.aspx.cs" Inherits="HISTORY" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="insider.master" AutoEventWireup="true" CodeFile="HISTORY.aspx.cs" Inherits="HISTORY" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
      <title>HISTORY</title>
@@ -20,6 +20,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <h4>OUR HISTORY</h4>
     <div class="container">
+        <br />
         <p>The year 1827 : A resolution was passed that an institution for the promotion of education should be established under the Bombay Native Education Society and be designated as "Elphinstone College". The enlightened citizens of Mumbai collected a sum of Rs.2,29,636.00, for teaching English Language, the Arts and Literature of Europe. This was a tribute to the departing Governor of Bombay, MountstuartElphinsotne (1819-27). The Elphinstone Institution was formally constituted in 1835.</p>
 
 <p>The classes commenced in 1836 with the two Professors, Arthur Bedford Orlebar, Professor of Natural Philosophy and Harkness, Professor of General Literature. In April 1956, Elphinstone College, separated from the High School and became an institution in its own right. It was affiliated to the University of Mumbai in 1860.</p>

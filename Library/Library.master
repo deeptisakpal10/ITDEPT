@@ -50,15 +50,15 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="../Home.aspx">Home</a>
+                            <a class="nav-link active" aria-current="page" href="Home.aspx">Home</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">About us
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">About IT Department</a></li>
-                                <li><a class="dropdown-item" href="#">History</a></li>
-                                <li><a class="dropdown-item" href="#">Vision,misson & Goals</a></li>
+                                <li><a class="dropdown-item" href="AboutDept.aspx">About IT Department</a></li>
+                                <li><a class="dropdown-item" href="HISTORY.aspx">History</a></li>
+                                <li><a class="dropdown-item" href="Goals.aspx">Vision,misson & Goals</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -66,41 +66,36 @@
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="admission.aspx">Admission Form</a></li>
-                                <li><a class="dropdown-item" href="#">Fees Structure</a></li>
-                                <li><a class="dropdown-item" href="#">Reservation of Seats</a></li>
-                                <li><a class="dropdown-item" href="#">Rules</a></li>
+                                <li><a class="dropdown-item" href="feestructure.aspx">Fees Structure</a></li>
+                                <li><a class="dropdown-item" href="reservation.aspx">Reservation of Seats</a></li>
+                                <li><a class="dropdown-item" href="Rules.aspx">Rules</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="#">Activities</a>
+                            <a class="nav-link" aria-current="page" href="Activities.aspx">Activities</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="#">Facilities</a>
+                            <a class="nav-link" aria-current="page" href="Facilities.aspx">Facilities</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="../Home.aspx#Photos">Photos</a>
+                            <a class="nav-link" aria-current="page" href="Home.aspx#Photos">Photos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="../Home.aspx#OurFalcuty">Faculty</a>
+                            <a class="nav-link" aria-current="page" href="Home.aspx#OurFalcuty">Faculty</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="#">NAAC</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="#">Library</a>
-                        </li>
+                       
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Examination
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="#">Syllabus</a></li>
                                 <li><a class="dropdown-item" href="#">Sample Question Papers</a></li>
-                                <li><a class="dropdown-item" href="#">Main Exam</a></li>
-                                <li><a class="dropdown-item" href="#">Result</a></li>
+                                <li><a class="dropdown-item" href="exam.aspx">Main Exam</a></li>
+                                
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="/../Home.aspx#ContactUS">Contact Us</a>
+                            <a class="nav-link" aria-current="page" href="Home.aspx#ContactUS">Contact Us</a>
                         </li>
                     </ul>
                     <form class="d-flex">
