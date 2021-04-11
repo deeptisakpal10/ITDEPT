@@ -58,14 +58,14 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="AboutDept.aspx">About IT Department</a></li>
                                 <li><a class="dropdown-item" href="HISTORY.aspx">History</a></li>
-                                <li><a class="dropdown-item" href="Goals.aspx">Vision,misson & Goals</a></li>
+                                <li><a class="dropdown-item" href="Goal.aspx">Vision,misson & Goals</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Admissions
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="admission.aspx">Admission Form</a></li>
+                                <li><a class="dropdown-item" href="/outsider/admission.aspx">Admission Form</a></li>
                                 <li><a class="dropdown-item" href="feestructure.aspx">Fees Structure</a></li>
                                 <li><a class="dropdown-item" href="reservation.aspx">Reservation of Seats</a></li>
                                 <li><a class="dropdown-item" href="Rules.aspx">Rules</a></li>
@@ -90,7 +90,7 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="#">Syllabus</a></li>
                                 <li><a class="dropdown-item" href="#">Sample Question Papers</a></li>
-                                <li><a class="dropdown-item" href="exam.aspx">Main Exam</a></li>
+                                <li><a class="dropdown-item" href="/insider/exam.aspx">Main Exam</a></li>
                                 
                             </ul>
                         </li>

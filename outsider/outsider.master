@@ -50,7 +50,7 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown"> 
                                 <li><a class="dropdown-item" href="AboutDept.aspx">About IT Department</a></li>
                                 <li><a class="dropdown-item" href="HISTORY.aspx">History</a></li>
-                                <li><a class="dropdown-item" href="Goals.aspx">Vision,misson & Goals</a></li>
+                                <li><a class="dropdown-item" href="Goal.aspx">Vision,misson & Goals</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -83,7 +83,7 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown"> 
                                 <li><a class="dropdown-item" href="#">Syllabus</a></li>
                                 <li><a class="dropdown-item" href="#">Sample Question Papers</a></li>
-                                <li><a class="dropdown-item" href="exam.aspx">Main Exam</a></li>
+                                <li><a class="dropdown-item" href="/insider/exam.aspx">Main Exam</a></li>
                                 
                             </ul>
                         </li>
